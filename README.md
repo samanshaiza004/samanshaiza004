@@ -1,16 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m Saman!
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning C.
+- 📫 How to reach me: Add me on discord: samanshaiza
 
-<!--
-**samshaiza/samshaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Languages, Scripting Languages & Sub Languages (vimscript, etc.)
+  - ![My most used languages](https://skillicons.dev/icons?i=lua,py,ts,javascript,html,markdown,cs,c,cpp,neovim,rust,dotnet,vim,unreal,powershell,linux,nodejs&perline=7 "My skills at this moment")
+- IDEs
+  - ![My IDES](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,vim "IDE(s) that I utilize")
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=storm99999&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=storm99999&layout=compact&theme=tokyonight&border_radius=10&langs_count=10)
