@@ -1,6 +1,6 @@
 # Hi 👋 my name is Saman!
 
-## My portfolio
+I'm a software and web developer who loves writing tests and working on cool projects.
 
 [My website](https://samanshaiza.netlify.app/)
 
