@@ -1,9 +1,5 @@
 # Hi 👋 my name is Saman!
 
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: Add me on discord: _samanshaiza_
-
 ## My portfolio
 
 [My website](https://samanshaiza.netlify.app/)
