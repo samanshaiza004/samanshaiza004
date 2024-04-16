@@ -17,9 +17,6 @@ I'm a software and web developer who loves writing tests and working on cool pro
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,react,tailwind,vite,c,cpp,py&perline=5)](https://skillicons.dev)
 
-## IDEs
-![My IDES](https://skillicons.dev/icons?i=vscode,neovim,vim,emacs "IDE(s) that I utilize")
-
 <div align="center">
   <img height="350" src="https://media.giphy.com/media/7WvAUvZZTRpSuudobh/giphy.gif"  />
 </div>
