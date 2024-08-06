@@ -17,8 +17,4 @@ I'm a software and web developer who loves writing tests and working on cool pro
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,java,c,cpp,py&perline=12)](https://skillicons.dev)
 
-<div align="center">
-  <img height="350" src="https://media.giphy.com/media/7WvAUvZZTRpSuudobh/giphy.gif"  />
-</div>
-
 ###
