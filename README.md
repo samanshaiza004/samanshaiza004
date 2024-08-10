@@ -2,7 +2,7 @@
 
 I'm a software and web developer who loves writing tests and working on cool projects.
 
-[My website](https://samanshaiza.netlify.app/)
+[My website](https://samanshaiza.com)
 
 ###
 
