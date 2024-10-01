@@ -1,6 +1,6 @@
 # Hi 👋 my name is Saman!
 
-I'm a software and web developer who is interested in distributed systems, network programming, websites, audio related projects.
+I'm a software and web developer who is interested in distributed systems, network programming, websites/desktop apps, and learning about audio programming.
 
 I like writing TypeScript, C++, and Go!
 
