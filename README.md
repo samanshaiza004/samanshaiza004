@@ -1,6 +1,8 @@
 # Hi 👋 my name is Saman!
 
-I'm a software and web developer who loves writing tests and working on cool projects.
+I'm a software and web developer who is interested in distributed systems, network programming, websites, audio related projects.
+
+I like writing TypeScript, C++, and Go!
 
 [My website](https://samanshaiza.com)
 
